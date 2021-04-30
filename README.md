@@ -1,6 +1,6 @@
 # flutter_money_management_app
 
-A new Flutter application.
+Flutter_money_management_app.following Abdul aziz ahwan.
 
 ## Getting Started
 
